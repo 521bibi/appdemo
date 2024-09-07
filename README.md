@@ -1,7 +1,7 @@
 镜像：ccr.ccs.tencentyun.com/cube-studio/demo:20240907
 
 参数
-'''
+```git
 {
     "训练相关参数": {
         "--input_file_path": {
@@ -42,4 +42,4 @@
         }
     }
 }
-'''
+```
